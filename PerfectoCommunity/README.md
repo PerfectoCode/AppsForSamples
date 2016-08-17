@@ -1,0 +1,1 @@
+:information_source: This application is used in the Reporting-Java-main code sample, which can be found [here](https://github.com/PerfectoCode/Samples/tree/master/Reporting/Java/main-sample).
