@@ -1,0 +1,1 @@
+:information_source: This application is used in the ScriptOnce code sample, which can be found [here](https://github.com/PerfectoCode/Samples/tree/master/Methods/ScriptOnce).
